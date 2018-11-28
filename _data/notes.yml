@@ -1,0 +1,12 @@
+- name: Ruby
+  link: ruby
+- name: Javascript
+  link: javascript
+- name: Rails
+  link: rails
+- name: my workflow and tools
+  link: workflow 
+- name: trying to understand different open source code  
+  link: reviews 
+- name: everyting else 
+  link: misc 
